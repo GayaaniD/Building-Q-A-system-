@@ -6,7 +6,7 @@ Streamlit: UI
 Huggingface instructor embeddings: Text embeddings
 FAISS: Vector databse
 
-Sample Questions
+# Sample Questions
 Do you guys provide internship and also do you offer EMI payments?
 Do you have javascript course?
 Should I learn power bi or tableau?
